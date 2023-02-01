@@ -9,7 +9,8 @@ Le but de ce projet est de comprendre comment on peut obtenir un second rendez-v
 
 Pour ce projet la base de donnée a été récupéré sur Kaggle.
 
-## Auteur Dany Nguyen : dany.nguyen1997@gmail.com
+## Auteur 
+Dany Nguyen : dany.nguyen1997@gmail.com
 
 ## Présentation vidéo du projet :
 en attente...
