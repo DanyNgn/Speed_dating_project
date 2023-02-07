@@ -13,4 +13,5 @@ Pour ce projet la base de donnée a été récupéré sur Kaggle.
 Dany Nguyen : dany.nguyen1997@gmail.com
 
 ## Présentation vidéo du projet :
-en attente...
+https://share.vidyard.com/watch/h8VcXFSwoM5Jmt9PUVDN59?
+
